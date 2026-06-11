@@ -47,6 +47,14 @@ pip install -r requirements.txt
 
 python translator_gui.py
 
+## How to Run
+
+1. Clone the repository  
+2. Install dependencies using:
+   pip install -r requirements.txt  
+3. Run the project:
+   python translator_gui.py
+
 ## 🎯 Future Improvements
 
 - Voice Input Support
